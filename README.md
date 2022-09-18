@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekvirpariya
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning (how to teach Ethics to AI) PYTHON and DATASCIENCE
+- 🌱 I’m currently learning **(how to teach Ethics to AI)** PYTHON and DATASCIENCE
 - 💞️ I’m looking to collaborate on MECHANICAL DESIGN and MACHINE LEARNING(AI)
 - 📫 How to reach me +91 960 117 3135 and vivvirpariya@gmail.com
 
